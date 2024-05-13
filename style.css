@@ -1,0 +1,176 @@
+nav a{
+text-decoration: none;
+color: black;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;
+}
+
+.Navigation {
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin-left: 200px;
+    padding: 8px 25px;
+}
+
+.logo {
+    position: absolute;
+    margin-left: 70px;
+}
+
+.Navigation-button_spacial{
+    background-color: #ffbc0d;
+    border-radius: 5px;
+    padding: 8px 25px;
+    text-decoration: none;
+    color: black;
+}
+
+.Navigation-button_2 {
+    margin-left: 10px;
+}
+
+.Navigation-button_3 {
+    margin-left: 10px;
+}
+
+.Navigation-button_5 {
+    text-decoration: solid;
+    color: blue;
+}
+
+.Brand-image {
+    width: 789px;
+    height: 343px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.Navigation-first_footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.Info-block {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.Title {
+    margin-right: 70px;
+    margin-top: 70px;
+    font-size: 30px;
+}
+
+.Navigation-second_footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.Main_Info-block{
+    font-size: 15px;
+}
+
+.Social-networks{
+    margin-top: 70px;
+    margin-left: 70px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Social-networks_button1 {
+   position: absolute;
+   left: 75px;
+}
+
+.Social-networks_button2 {
+    position: absolute;
+    left: 125px;
+   
+}
+
+.Social-networks_button3 {
+    position: absolute;
+    left: 175px;
+}
+
+.Social-networks_button4 {
+    position: absolute;
+    left: 225px;
+}
+
+.Social-networks_button5 {
+    position: absolute;
+    left: 275px;
+}
+
+.Social-networks_button6 {
+    position: absolute;
+    left: 325px;
+}
+
+.Social-networks_button7 {
+    position: absolute;
+    left: 375x;
+}
+
+.Social-networks_button8 {
+    position: absolute;
+    left: 425px;
+}
+
+
+
+.Navigation-trird_footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.Navigation-fourth_footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    width: 50%;
+}
+
+
+.Social-block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Social-program {
+    position: absolute;
+    left: 73%;
+}
+
+.Info-text {
+    margin-left: 30px;
+    margin-right: 110px;
+}
+
+.Small-font {
+    font-size: 10px;
+}
+
+.Button_spacial {
+    margin-top: 30px;
+    font-size: 18px;
+    position: absolute;
+}
+
+.Navigation-button_spacial:visited {
+    background-color: #FF8A08;
+}
+
+.Navigation-button_spacial:hover {
+    transform: scale(1.1);
+}
